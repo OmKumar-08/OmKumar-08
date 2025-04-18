@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👋 Hi, I'm Om Kumar!
 
-<!--
-**OmKumar-08/OmKumar-08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 A passionate **Software Developer** pursuing a Bachelor's in **Computer Science & Engineering** at **GIET Bhubaneswar**.  
+🔭 I specialize in **Backend Development**, **Cloud Computing**, and **Generative AI** (RAG, Prompt Engineering).  
+🚀 I'm always excited to work on **scalable systems**, **RESTful APIs**, and explore new technologies.
 
-Here are some ideas to get you started:
+---
+## 🛠️ Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Languages**: Java, JavaScript, Python  
+- **Frameworks**: Spring, Spring Boot  
+- **Databases**: MySQL, MongoDB  
+- **Tools**: Git, Postman, AWS  
+- **Concepts**: DSA, Scalable Systems, REST API Development, Debugging  
+- **AI Interests**: Generative AI, RAG (Retrieval-Augmented Generation)
+
+---
+## 📚 Education
+
+🎓 **B.Tech in Computer Science & Engineering**  
+Gandhi Institute of Excellent Technocrats, Bhubaneswar  
+📅 Graduation Year: 2026  
+📈 CGPA: 8.59
+
+---
+## 📫 Let's Connect!
+
+- 🔗 [LinkedIn](https://linkedin.com/in/om-kumar-42a715302)
+- 💻 [GitHub](https://github.com/OmKumar-08)
+- 📧 Email: omkumar08225@gmail.com
+
+---
+
+_“Striving to build tech that empowers people and solves real-world problems.”_
